@@ -1,6 +1,6 @@
 # Quote Generator App 📜
 
-This simple Android application generates motivational quotes at the click of a button.
+This is a simple Android application developed for educational purposes. It generates motivational quotes at the click of a button.
 
 ![Demo](frases.gif)
 
@@ -25,11 +25,11 @@ To use this app:
 
 ## Screenshots
 
-_Add screenshots here_
+_(Add screenshots here)_
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit your pull requests.
+Contributions are welcome! This project is intended for learning purposes. Feel free to fork the repository and submit your pull requests.
 
 ## License
 
