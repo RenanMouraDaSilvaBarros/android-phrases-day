@@ -2,7 +2,7 @@
 
 This simple Android application generates motivational quotes at the click of a button.
 
-![Demo](demo.gif) <!-- Replace 'demo.gif' with the name of your GIF -->
+![Demo](frases.gif)
 
 ## Features
 
