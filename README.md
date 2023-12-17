@@ -1,36 +1,36 @@
-# Quote Generator App 📜
+# Aplicativo Gerador de Citações 📜
 
-This is a simple Android application developed for educational purposes. It generates motivational quotes at the click of a button.
+Este é um aplicativo simples para Android desenvolvido para fins educacionais. Ele gera citações motivacionais com um clique.
 
 ![Demo](frases.gif)
 
-## Features
+## Funcionalidades
 
-- Generates motivational quotes randomly.
-- Easy and intuitive user interface.
-- Tap the 'Generate' button to get a new quote instantly.
+- Gera citações motivacionais aleatoriamente.
+- Interface de usuário fácil e intuitiva.
+- Toque no botão 'Gerar' para obter uma nova citação instantaneamente.
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 - Kotlin
 - Android Studio
 
-## Usage
+## Uso
 
-To use this app:
+Para usar este app:
 
-1. Clone this repository.
-2. Open the project in Android Studio.
-3. Build and run the app on an emulator or physical device.
+1. Clone este repositório.
+2. Abra o projeto no Android Studio.
+3. Compile e execute o aplicativo em um emulador ou dispositivo físico.
 
-## Screenshots
+## Capturas de Tela
 
-_(Add screenshots here)_
+_(Adicione capturas de tela aqui)_
 
-## Contributing
+## Contribuições
 
-Contributions are welcome! This project is intended for learning purposes. Feel free to fork the repository and submit your pull requests.
+Contribuições são bem-vindas! Este projeto é destinado a fins de aprendizado. Sinta-se à vontade para fazer um fork do repositório e enviar suas solicitações pull (pull requests).
 
-## License
+## Licença
 
-This project is licensed under the [MIT License](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
