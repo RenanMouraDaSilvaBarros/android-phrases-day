@@ -1,6 +1,6 @@
 # Aplicativo Gerador de Citações 📜
 
-Este é um aplicativo simples para Android desenvolvido para fins educacionais. Ele gera citações motivacionais com um clique.
+Um aplicativo Android que gera citações motivacionais com apenas um clique
 
 ![Demo](frases.gif)
 
